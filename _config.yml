@@ -1,0 +1,20 @@
+# Jekyll Resume Theme
+
+# Site settings
+title: Patrick Varin
+email: patrickjvarin@gmail.com
+description: Patrick Varin's online resume.
+baseurl: ""
+url: "pvarin.github.io"
+name: Patrick Varin
+job: PhD Student in Computer Science
+location: Cambridge, MA
+interests: Robotics
+# twitter_username: thepatrickvarin
+github_username:  pvarin
+# codepen_username: 
+linkedin_username: patrickvarin
+email_address: patrickjvarin@gmail.com
+
+# Build settings
+markdown: kramdown
