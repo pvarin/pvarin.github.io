@@ -15,6 +15,7 @@ header {
 .header_left {
     text-align: center;
     padding: (2 * $spacer);
+    min-width: 200px;
 
     @media(min-width: $max_page_width){
         max-width: 40%;
