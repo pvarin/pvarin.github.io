@@ -12,8 +12,16 @@ dt, dd {
 }
 
 @media(min-width: 640px) {
+    
     dt, dd {
         margin-bottom: 60px;
+    }
+
+    .mission {
+        dt {
+            display: block;
+            text-align: center;
+        }
     }
 
     .experience {
@@ -31,6 +39,16 @@ dt, dd {
             width: 50%;
         }
     }
+
+    .publications {
+        dt {
+            width: 70%;
+            padding-right: ($spacer * 2);
+        }
+        dd {
+            width: 30%;
+        }
+    }
 }
 
 .title {
@@ -41,11 +59,11 @@ dt, dd {
 
 a {
     color: black!important;
-    background: rgba(245, 215, 110, 0);
+    background: rgba(66, 134, 244, 0);
     transition: all linear .2s;
 
     &:hover {
-        background: rgba(245, 215, 110, 1);
+        background: rgba(66, 134, 244, .3);
         text-decoration: none;
     }
 }

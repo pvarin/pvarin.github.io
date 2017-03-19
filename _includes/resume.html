@@ -1,3 +1,10 @@
+<h3 class="section-title">Mission</h3>
+<dl class="mission">
+    <dt>
+        {{site.data.bio.mission}}
+    <dt/>
+</dl>
+
 <h3 class="section-title">Experience</h3>
 <dl class="experience">
     {% for job in site.data.jobs %}
@@ -31,11 +38,10 @@
     {% for pub in site.data.publications %}
         <dt>
             <p class="title"><a href="{{publications.link}}">{{ pub.title }}</a></p>
-            <p class="company">{{ pub.journal }}</p>
-            <p class="period">{{ pub.year }}</p>
         </dt><!--
         --><dd>
-            <p>{{ pub.description }}</p>
+            <p class="company">{{ pub.journal }}</p>
+            <p class="period">{{ pub.year }}</p>
         </dd>
     {% endfor %}
 </dl>
