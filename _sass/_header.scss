@@ -6,14 +6,50 @@ header {
     padding: ($spacer * 2) 0;
     margin-bottom: ($spacer * 2);
 
-    @media(min-width: 640px) {
+    @media(min-width: $max_page_width) {
         padding: ($spacer * 6) 0 ($spacer * 3);
         margin-bottom: ($spacer * 3);
     }
 }
 
+.header_left {
+    text-align: center;
+    padding: (2 * $spacer);
+
+    @media(min-width: $max_page_width){
+        max-width: 40%;
+        display: inline-block;
+        vertical-align: middle;
+        margin-right: (2*$spacer);
+        border-right: solid thin #222;
+    }
+}
+
+.header_right {
+    @media(max-width: $max_page_width){
+        text-align: center;
+    }
+
+    @media(min-width: $max_page_width){
+        max-width: 60%;
+        display: inline-block;
+        vertical-align: middle;
+    }
+}
+
+#headshot {
+    max-width: 200px;
+    max-height: 200px;
+    border-radius: 50%;
+}
+
 .intro {
     margin-bottom: ($spacer * 2);
+
+    &_headshot, &_text {
+        display: inline-block;
+        vertical-align: middle;
+    }
 
     &__pre, &__post {
         text-transform: uppercase;
@@ -26,9 +62,9 @@ header {
         font-weight: bold;
         margin: 10px 0 20px;
 
-        @media(min-width: 640px) {
+        @media(min-width: $max_page_width) {
             font-size: 2.2rem;
-            max-width: 60%;
+            // max-width: 80%;
         }
     }
 }

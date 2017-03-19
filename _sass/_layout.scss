@@ -3,9 +3,10 @@
 
 // Default spacing unit
 $spacer: 20px;
+$max_page_width : 860px;
 
 .container {
-    max-width: 860px;
+    max-width: $max_page_width;
     margin: 0 auto;
     padding: 0 $spacer;
 }
