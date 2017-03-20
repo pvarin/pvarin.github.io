@@ -13,9 +13,16 @@ dt, dd {
 
 @media(min-width: 640px) {
     
+    dt {
+        padding-right: 5px;
+    }
+
+    dd {
+        text-align: justify;
+    }
+
     dt, dd {
         margin-bottom: 60px;
-        text-align: justify;
     }
 
     .mission {
@@ -28,7 +35,7 @@ dt, dd {
     .experience {
         dt {
             width: 30%;
-            padding-right: ($spacer * 2);
+            padding-right: $spacer;
         }
         dd {
             width: 70%;
@@ -36,6 +43,9 @@ dt, dd {
     }
 
     .education {
+        dt {
+            padding-right: $spacer;
+        }
         dt, dd {
             width: 50%;
         }
@@ -43,12 +53,12 @@ dt, dd {
 
     .publications {
         dt {
-            width: 70%;
-            padding-right: ($spacer * 2);
+            width: 100%;
+            // padding-right: $spacer;
         }
-        dd {
-            width: 30%;
-        }
+        // dd {
+        //     width: 30%;
+        // }
     }
 }
 

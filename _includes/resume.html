@@ -38,10 +38,7 @@
     {% for pub in site.data.publications %}
         <dt>
             <p class="title"><a href="{{publications.link}}">{{ pub.title }}</a></p>
-        </dt><!--
-        --><dd>
-            <p class="company">{{ pub.journal }}</p>
-            <p class="period">{{ pub.year }}</p>
-        </dd>
+            <p class="company">{{ pub.journal }} - {{pub.year}}</p>
+        </dt>
     {% endfor %}
 </dl>
