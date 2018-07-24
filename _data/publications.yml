@@ -3,3 +3,8 @@
     journal: SIAM Undergraduate Research Online
     year: 2013
     # description: Numerical analysis of the stability of the Keller-Segel model of chemotaxis. Discovered multimodal behavior in coarsening near metastable equilibria.
+    
+-   title: A Constrained Kalman Filter for Rigid Body Systems with Frictional Contact
+    link: https://agile.seas.harvard.edu/files/agile/files/contact-filter.pdf
+    journal: submitted
+    year: 2018
