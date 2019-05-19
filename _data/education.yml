@@ -1,7 +1,12 @@
 -   qualification: Computer Science PhD Candidate
     school: Harvard University
-    description: Studying optimal control for robotics, specifically robust control and estimation through contact.
+    description: Studying optimal control and reinforcement learning for robotics.
     period: 2016-Present
+
+-   qualification: Master of Science in Computer Science
+    school: Harvard University
+    description: S.M. from Harvard University in Computer Science with a focus on robotic control and estimation.
+    period: 2019
 
 -   qualification: 'B.S. Engineering: Robotics'
     school: Olin College of Engineering
