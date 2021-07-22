@@ -1,33 +1,33 @@
--   title: Controls Researcher
-    company: Boston Dynamics
-    description: Building robust control techniques for dynamic behaviors on the Atlas humanoid robot.
-    period: 2019-Present
+- title: Visiting Controls Researcher
+  company: Boston Dynamics
+  description: Building planning, estimation, and control techniques for dynamic behaviors on the Atlas humanoid robot.
+  period: 2019-Present
 
--   title: Student Researcher
-    company: Harvard University
-    description: Designing algorithms for robust control and estimation in the context of robotics.
-    period: 2016-Present
+- title: PhD Candidate
+  company: Harvard University
+  description: Designing algorithms for robust control and estimation in the context of robotics.
+  period: 2016-Present
 
--   title: Product Manager
-    company: Facebook
-    description: Led teams of engineers, designers, and data analysts to build products across all Facebook interfaces. Teams incuded Notifications, Commerce and Ads, and News Feed
-    period: 2014-2016
+- title: Product Manager
+  company: Facebook
+  description: Led teams of engineers, designers, and data analysts to build products across all Facebook interfaces. Teams incuded Notifications, Commerce and Ads, and News Feed
+  period: 2014-2016
 
--   title: Teacher's Assistant
-    company: Olin College
-    description: "Teacher's assistant for classes including: Modeling and Control, Real World Measurements, Signals and Systems, and Partial Differential Equations. Held supplemental lectures, office hours, and graded homework and quizzes."
-    period: 2011-2014
+- title: Teacher's Assistant
+  company: Olin College
+  description: "Teacher's assistant for classes including: Modeling and Control, Real World Measurements, Signals and Systems, and Partial Differential Equations. Held supplemental lectures, office hours, and graded homework and quizzes."
+  period: 2011-2014
 
--   title: Research Assistant
-    company: University of Notre Dame
-    description: Designed and built mechanical and software systems for hyper-realistic robotic mannequins for use with medical training--several patents submitted.
-    period: 2013
+- title: Research Assistant
+  company: University of Notre Dame
+  description: Designed and built mechanical and software systems for hyper-realistic robotic mannequins for use with medical training--several patents submitted.
+  period: 2013
 
--   title: Research Assistant
-    company: University of Minnesota
-    description: Studied stability in a dynamic model of chemotaxis. Discovered new modes of colony formation in systems of bacteria and published results.
-    period: 2012
+- title: Research Assistant
+  company: University of Minnesota
+  description: Studied stability in a dynamic model of chemotaxis. Discovered new modes of colony formation in systems of bacteria and published results.
+  period: 2012
 
--   title: Research Assistant
-    company: Olin College
-    description: Studied the dynamics of angiogenesis and the effects of diabetes, obesity, and hypertension on blood vessel adaptation.
+- title: Research Assistant
+  company: Olin College
+  description: Studied the dynamics of angiogenesis and the effects of diabetes, obesity, and hypertension on blood vessel adaptation.

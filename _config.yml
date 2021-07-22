@@ -7,14 +7,14 @@ description: Patrick Varin's online resume.
 baseurl: ""
 url: "pvarin.github.io"
 name: Patrick Varin
-job: Computer Science PhD Student
+job: Computer Science PhD Candidate
 location: Cambridge, MA
 interests: Robotics
-# twitter_username: thepatrickvarin
+  # twitter_username: thepatrickvarin
 github_username:  pvarin
-# codepen_username: 
+  # codepen_username:
 linkedin_username: patrickvarin
 email_address: patrickjvarin@gmail.com
 
-# Build settings
+  # Build settings
 markdown: kramdown
