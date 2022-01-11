@@ -1,12 +1,17 @@
+- title: Senior Robotics/ML Engineer
+  company: Cruise
+  description: Building efficient real-time planning algorithms for autonomous vehicles.
+  period: 2021-Present
+
 - title: Visiting Controls Researcher
   company: Boston Dynamics
   description: Building planning, estimation, and control techniques for dynamic behaviors on the Atlas humanoid robot.
-  period: 2019-Present
+  period: 2019-2021
 
 - title: PhD Candidate
   company: Harvard University
   description: Designing algorithms for planning, control, and estimation in the context of robotics.
-  period: 2016-Present
+  period: 2016-2021
 
 - title: Product Manager
   company: Facebook
